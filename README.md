@@ -257,7 +257,7 @@ Here's a breakdown of the key differences between VXLAN and traditional VLANs in
 **Spanning Tree Protocol (STP):** Used to prevent loops, which can cause network instability and inefficiencies.
 Limited Mobility: Difficult to extend VLANs across multiple data centers.
 
-####VXLAN (Virtual Extensible LAN):
+#### VXLAN (Virtual Extensible LAN):
 
 **Layer 2 over Layer 3:** Encapsulates Layer 2 Ethernet frames within Layer 3 UDP packets, enabling traffic to traverse Layer 3 networks.
 **Scalability:** Supports up to 16 million logical networks, significantly increasing scalability compared to VLANs.
